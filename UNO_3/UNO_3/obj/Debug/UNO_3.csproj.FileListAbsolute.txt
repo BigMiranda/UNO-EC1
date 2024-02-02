@@ -1,0 +1,6 @@
+C:\Users\Positivo\Documents\Matheus\Faculdade\Matérias\Algoritmos\UNO_3\UNO_3\bin\Debug\UNO_3.exe.config
+C:\Users\Positivo\Documents\Matheus\Faculdade\Matérias\Algoritmos\UNO_3\UNO_3\bin\Debug\UNO_3.exe
+C:\Users\Positivo\Documents\Matheus\Faculdade\Matérias\Algoritmos\UNO_3\UNO_3\bin\Debug\UNO_3.pdb
+C:\Users\Positivo\Documents\Matheus\Faculdade\Matérias\Algoritmos\UNO_3\UNO_3\obj\Debug\UNO_3.csprojAssemblyReference.cache
+C:\Users\Positivo\Documents\Matheus\Faculdade\Matérias\Algoritmos\UNO_3\UNO_3\obj\Debug\UNO_3.exe
+C:\Users\Positivo\Documents\Matheus\Faculdade\Matérias\Algoritmos\UNO_3\UNO_3\obj\Debug\UNO_3.pdb
